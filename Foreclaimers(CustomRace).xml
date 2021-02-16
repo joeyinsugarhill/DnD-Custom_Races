@@ -37,7 +37,7 @@
     </setters>
     <rules>
       
-      <stat name="Wisdom" value="2"/>
+      <stat name="wisdom" value="2" bonus="base"/>
       <stat name="innate speed" value="30" bonus="base"/>
       <grant type="Size" id="ID_SIZE_MEDIUM" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
