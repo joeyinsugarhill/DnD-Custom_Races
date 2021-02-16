@@ -60,14 +60,10 @@
   
   <element name="Powered" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_POWERED">
     <description>
-			<p> Your power crystal can be removed at will and when it is removed from its socket, you lose all racial bonuses as
-			well as any innate ability to cast spells.</p>
+			<p> Your power crystal can be removed at will and when it is removed from its socket, you lose all racial bonuses as well as any innate ability to cast spells.</p>
 	</description>
 	<sheet display="false">
-		<description> When your power crystal is removed from its socket, you begin to grow weak and the purple lines disappear.
-		If left unpowered for more than a year, you will slowly begin to degrade over the course of 100 years, eventually reducing
-		your lifespan by half. If you remain unpowered for more than a year you can also begin to gain negative effects such as
-		memory loss, developing strange obsessions or habits, and at worst growing feeble.</description>
+		<description> When your power crystal is removed from its socket, you begin to grow weak and the purple lines disappear. If left unpowered for more than a year, you will slowly begin to degrade over the course of 100 years, eventually reducing your lifespan by half. If you remain unpowered for more than a year you can also begin to gain negative effects such as memory loss, developing strange obsessions or habits, and at worst growing feeble.</description>
 	</sheet>
   </element>
   <element name="Gills" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_GILLS">
