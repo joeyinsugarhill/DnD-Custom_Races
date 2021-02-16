@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Foreclaimers</name>
+		<description>A custom DnD race</description>
+		<update version="1.0.1">
+			<file name="foreclaimers.index" url="C:/Users/joeyi/OneDrive/Documents/5e Character Builder/custom/third-party/foreclaimers.index" />
+		</update>
+	</info>
+	<files>
+		<file name="Foreclaimers(CustomRace).xml" url="C:/Users/joeyi/OneDrive/Documents/5e Character Builder/custom/third-party/foreclaimer/Foreclaimers(CustomRace).xml" />
+	</files>
+</index>
