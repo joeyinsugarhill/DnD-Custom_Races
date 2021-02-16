@@ -72,62 +72,62 @@
   </element>
   <element name="Gills" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_GILLS">
 	<description>
-		<p></p>
+		<p>You gain the ability to breathe underwater.</p>
 	</description>
   </element>
   <element name="Cat Eyes" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_CAT_EYES">
 	<description>
-		<p></p>
+		<p>Gain darkvision to a range of 60 feet.</p>
 	</description>
   </element>
   <element name="Stick Palm Glands" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_STICK_PALM_GLANDS">
 	<description>
-		<p></p>
+		<p>You gain a Climbing speed of 20 feet.</p>
 	</description>
   </element>
   <element name="Muscle Enhancement" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_MUSCLE_ENHANCEMENT">
 	<description>
-		<p></p>
+		<p>You gain a +1 to your Strength while Powered.</p>
 	</description>
   </element>
   <element name="Metallic Skin" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_METALLIC_SKIN">
 	<description>
-		<p></p>
+		<p>You gain a +1 to your Constitution while Powered.</p>
 	</description>
   </element>
   <element name="Tempered Skin" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_TEMPERED_SKIN">
 	<description>
-		<p></p>
+		<p>You gain resistance to Fire damage while powered.</p>
 	</description>
   </element>
   <element name="Agility Enhancement" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_AGILITY_ENHANCEMENT">
 	<description>
-		<p></p>
+		<p>Your base movement speed is increased by 10 feet.</p>
 	</description>
   </element>
   <element name="Optic Camouflage" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_OPTIC_CAMOUFLAGE">
 	<description>
-		<p></p>
+		<p>Once per day, you can use invisibility on self for 2 rounds. The spell recharges after a long rest. You may not use this ability if unpowered.</p>
 	</description>
   </element>
   <element name="Sixth Sense" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_SIXTH_SENSE">
 	<description>
-		<p></p>
+		<p>you gain proficiency in Dexterity saving throws.</p>
 	</description>
   </element>
   <element name="Toxic Blood" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_TOXIC_BLOOD">
 	<description>
-		<p></p>
+		<p>You gain resistance to disease and poison.</p>
 	</description>
   </element>
   <element name="Mythril Bones" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_MYTHRIL_BONES">
 	<description>
-		<p></p>
+		<p>When falling you can roll 1d4 + your level to reduce the amount of fall damage you take, additionally, if you are running the Improved criticals module you can not have your bones broken by the major injury chart.</p>
 	</description>
   </element>
   <element name="Focused Solar Lenses" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_FOCUSED_SOLAR_LENSES">
 	<description>
-		<p></p>
+		<p>While in direct sunlight, you can fire a focused beam of energy out of your eyes in a straight line for up to 15 feet that does 1d6+ your level fire damage. The enemy must make a Dexterity save (dc=10 + Intelligence modifier), on a successful save they take half damage. You may use this ability a number of times equal to your Intelligence modifier. You regain all expended uses after a long rest.</p>
 	</description>
   </element>
 </elements>
