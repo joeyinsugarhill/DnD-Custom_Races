@@ -3,12 +3,12 @@
 	<info>
 		<name>Foreclaimers</name>
 		<description>A custom DnD race</description>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="Foreclaimers.index" url="https://github.com/joeyinsugarhill/DnD-Custom_Races/blob/main/Foreclaimers.index" />
 		</update>
 	</info>
 	<files>
-		<file name="Foreclaimers (Custom Race) - Female.index" url="https://github.com/joeyinsugarhill/DnD-Custom_Races/blob/main/Foreclaimers%20(Custom%20Race)%20-%20Female.xml" />
-		<file name="Foreclaimers (Custom Race) - Male.index" url="https://github.com/joeyinsugarhill/DnD-Custom_Races/blob/main/Foreclaimers%20(Custom%20Race)%20-%20Male.xml" />
+		<file name="Foreclaimers(CustomRace)-Female.index" url="https://github.com/joeyinsugarhill/DnD-Custom_Races/blob/main/Foreclaimers(CustomRace)-Female.xml" />
+		<file name="Foreclaimers(CustomRace)-Male.index" url="https://github.com/joeyinsugarhill/DnD-Custom_Races/blob/main/Foreclaimers(CustomRace)-Male.xml" />
 	</files>
 </index>
