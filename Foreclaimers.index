@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Foreclaimers</name>
-		<description>A custom D&D race</description>
+		<description>A custom DnD race</description>
 		<update version="1.0.0">
 			<file name="Foreclaimers.index" url="https://github.com/joeyinsugarhill/DnD-Custom_Races/blob/main/Foreclaimers.index" />
 		</update>
