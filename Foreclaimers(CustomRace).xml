@@ -70,7 +70,7 @@
 	<description>
 		<p>You gain the ability to breathe underwater.</p>
 	</description>
-  <element/>
+  </element>
   <element name="Cat Eyes" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FORECLAIMERS_CAT_EYES">
 	<description>
 		<p>Gain darkvision to a range of 60 feet.</p>
